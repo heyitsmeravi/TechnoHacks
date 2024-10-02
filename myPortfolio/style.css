@@ -361,11 +361,7 @@ ul{
     /* width: 50vh; */
     position: absolute;
 }
-.formtag{
-    /* width: 50vh; */
-    /* position: block; */
-    
-}
+
   /* General Media Queries */
   
   @media screen and (max-width: 700px) {
@@ -386,7 +382,7 @@ ul{
     background-color: aliceblue;
 }
   }
-  
+  .formtag
   @media screen and (max-width: 400px) {
     .container tr {
       text-align: center;
